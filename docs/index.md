@@ -10,7 +10,7 @@ Flutter অ্যাপে Payment System লাগবে? আজ দেখি�
 
 ---
 
-### 🧩 ধাপ ১: Stripe এর dependency যোগ করুন
+### 🧩 Stripe এর dependency যোগ করুন
 
 `pubspec.yaml` ফাইলে নিচের কোড দিন:
 
@@ -22,7 +22,7 @@ http: ^0.13.5
 ```
 flutter pub get
 ```
-### 🧠 ধাপ ২: Stripe initialize করুন main.dart ফাইলে
+### 🧠 Stripe initialize করুন main.dart ফাইলে
 ```
 void main() async {
   _setup();  
@@ -37,7 +37,7 @@ Future<void> _setup()async{
 ```
 
 
-### Copy Keys
+### Copy Keys from your stripe account
 ```
 const String stripePublishableKey = "pk_test_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 const String stripeSecretKey = "sk_test_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
@@ -46,7 +46,7 @@ const String stripeSecretKey = "sk_test_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 ## 🛠️ Step-by-Step Stripe Integration:
 
 
-  ### 1. 🧾 Make Payment Flow Method
+  ###  1. 🧾 Make Payment Flow Method
   ```
    Future<void> makePayment() async {
     try {
@@ -67,7 +67,7 @@ const String stripeSecretKey = "sk_test_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
     }
   }
 ```
-### 2. 💵 Create Payment Intent Method
+###  2. 💵 Create Payment Intent Method
 ```
   Future<String?> _createPaymentIntent(int amount, String currency) async {
     try {
@@ -98,7 +98,7 @@ const String stripeSecretKey = "sk_test_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
     }
   }
 ```
-  ### 3. 💳  Create Process Payment Method
+  ###  3. 💳  Create Process Payment Method
   ```
   Future<void> _processPayment() async {
     try {
