@@ -46,7 +46,7 @@ const String stripeSecretKey = "sk_test_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 ## 🛠️ Step-by-Step Stripe Integration:
 
 
-  ###  1. 🧾 Make Payment Flow Method
+###  1. 🧾 Make Payment Flow Method
   ```
    Future<void> makePayment() async {
     try {
