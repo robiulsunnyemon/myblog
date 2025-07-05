@@ -216,3 +216,5 @@ CVC: যেকোনো 3 ডিজিট (3333)
 ✅ Secret Key কখনো client-side এ রাখবেন না (production এ backend ব্যবহার করুন)
 
 ✅ সবসময় test mode দিয়ে development করুন
+
+[Next](/post/flutter.md)
