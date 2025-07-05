@@ -1,3 +1,9 @@
+---
+title: Stripe Integration in Flutter
+layout: default
+---
+
+
 ## 💳📱 Flutter অ্যাপে Stripe Payment Integration করুন — খুব সহজে!
 
 Flutter অ্যাপে Payment System লাগবে? আজ দেখিয়ে দিচ্ছি কীভাবে মাত্র ৪ ধাপে Stripe Payment Gateway ইনটিগ্রেট করা যায়! 🚀
