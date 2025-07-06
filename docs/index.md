@@ -96,11 +96,19 @@ layout: default
 ### **📝 শেষ কথা**  
 "কোডিং শুধু পেশা নয়, আমার আবেগ। নতুন টেকনোলজি শেখা এবং সমস্যা সমাধান করাই আমার মূল লক্ষ্য।"  
 
-🔗 **আমার সাথে যুক্ত থাকুন:** [Portfolio](https://github.com/robiulsunnyemon?tab=repositories) | [GitHub](https://github.com/robiulsunnyemon/) | [LinkedIn](#)  
+🔗 **আমার সাথে যুক্ত থাকুন:** [Portfolio](https://github.com/robiulsunnyemon?tab=repositories) | [GitHub](https://github.com/robiulsunnyemon/) | [Linkedin](https://github.com/robiulsunnyemon/)
 
 --- 
 
-[Stripe](post/stripe.md) | [Getx_Cli](post/getx_cli.md) | [Button 3](#) | [Button 4](#) | [Button 5](#) | [Button 6](#) | [Button 7](#) | [Button 8](#) | [Button 9](#) | [Button 10](#)
+## See my post
+
+[<img src="https://miro.medium.com/v2/resize:fit:1400/1*5rgktQtBMRJ3ONKSuR3hNA.png" alt="Description" width="300" height="300">](post/getx_cli.md) 
+
+[Getx Cli documentation](post/getx_cli.md)
+
+[<img src="https://paymentsplugin.com/wp-content/uploads/2024/12/stripe_supported_payment_methods-2048x1152.jpg" alt="Description" width="300" height="300">](post/stripe.md) 
+
+[Stripe Payment documentation](post/stripe.md)
 
 ---
 
