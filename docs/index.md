@@ -218,3 +218,4 @@ CVC: যেকোনো 3 ডিজিট (3333)
 ✅ সবসময় test mode দিয়ে development করুন
 
 [Next](post/flutter.md)
+[Getx_Cli](post/getx_cli.md)
