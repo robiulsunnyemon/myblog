@@ -100,7 +100,7 @@ layout: default
 
 --- 
 
-[Stripe](#) | [Getx_Cli](post/getx_cli.md) | [Button 3](#) | [Button 4](#) | [Button 5](#) | [Button 6](#) | [Button 7](#) | [Button 8](#) | [Button 9](#) | [Button 10](#)
+[Stripe](post/stripe.md) | [Getx_Cli](post/getx_cli.md) | [Button 3](#) | [Button 4](#) | [Button 5](#) | [Button 6](#) | [Button 7](#) | [Button 8](#) | [Button 9](#) | [Button 10](#)
 
 ---
 
