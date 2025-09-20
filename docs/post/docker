@@ -1,0 +1,1 @@
+ docker run -d -p 8000:8000 -v "D:\Robiul Suny Emon\backend\alkhalifa\uploads:/app/uploads" --env-file .env --name alkhalifa-backend-container alkhalifa-backend
