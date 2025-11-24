@@ -104,29 +104,33 @@
 
 ## **📌 See My Posts**
 
-### GetX CLI
 
-[![GetX CLI](https://miro.medium.com/v2/resize\:fit:1400/1*5rgktQtBMRJ3ONKSuR3hNA.png)](post/getx_cli.md)
+
+![GetX CLI](https://miro.medium.com/v2/resize\:fit:1400/1*5rgktQtBMRJ3ONKSuR3hNA.png)
+
 **[GetX CLI Documentation](post/getx_cli.md)**
 
-### Stripe Payment
 
-[![Stripe Docs](https://paymentsplugin.com/wp-content/uploads/2024/12/stripe_supported_payment_methods-2048x1152.jpg)](post/stripe.md)
-**[Stripe Payment Documentation](post/stripe.md)**
 
-### Flutter Version Management
+![Stripe Docs](https://paymentsplugin.com/wp-content/uploads/2024/12/stripe_supported_payment_methods-2048x1152.jpg)
 
-[![FVM](https://miro.medium.com/v2/resize\:fit:1400/1*gyHhJT0tKRaBhXSDIHaOyw.jpeg)](post/fvm.md)
+**[Stripe Documentation](post/stripe.md)**
+
+
+![FVM](https://miro.medium.com/v2/resize\:fit:1400/1*gyHhJT0tKRaBhXSDIHaOyw.jpeg)
+
 **[Flutter Version Management Documentation](post/fvm.md)**
 
-### FlutterFire CLI
 
-[![FlutterFire](https://miro.medium.com/v2/resize\:fit:720/format\:webp/1*_4FOBZx2fe03jsdBUFBM5g.png)](post/flutterfire.md)
+
+![FlutterFire](https://miro.medium.com/v2/resize\:fit:720/format\:webp/1*_4FOBZx2fe03jsdBUFBM5g.png)
+
 **[FlutterFire CLI Documentation](post/flutterfire.md)**
 
-### DateTime Management
 
-[![Intl](https://joebirch.co/wp-content/uploads/2019/05/ff.png)](post/intl.md)
+
+![Intl](https://joebirch.co/wp-content/uploads/2019/05/ff.png)
+
 **[DateTime Management](post/intl.md)**
 
 ---
