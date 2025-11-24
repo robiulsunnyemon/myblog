@@ -114,11 +114,11 @@ layout: default
 
 [Flutter version management documentation](post/fvm.md) 
 
-[<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*_4FOBZx2fe03jsdBUFBM5g.png" alt="Description" width="300" height="200">](post/getx_cli.md) 
+[<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*_4FOBZx2fe03jsdBUFBM5g.png" alt="Description" width="300" height="200">](post/flutterfire.md) 
 
 [Flutterfire Cli documentation](post/flutterfire.md)
 
-[<img src="https://joebirch.co/wp-content/uploads/2019/05/ff.png" alt="Description" width="300" height="200">](post/getx_cli.md) 
+[<img src="https://joebirch.co/wp-content/uploads/2019/05/ff.png" alt="Description" width="300" height="200">](post/intl.md) 
 
 [DateTime management](post/intl.md)
 
