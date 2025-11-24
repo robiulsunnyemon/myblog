@@ -1,127 +1,134 @@
----
-title: robiulsunnyemon
-layout: default
----
+# **রবিউল সানি ইমন**
 
-
-# **রবিউল সানি ইমন**  
-### সফটওয়্যার ডেভেলপার | ফ্লাটার, ডার্ট, পাইথন ও Django এক্স-পার্টিজ 
+### সফটওয়্যার ডেভেলপার | Flutter · Dart · Python · Django
 
 ---
 
-## **👤 ব্যক্তিগত তথ্য**  
-- **নাম:** রবিউল সানি ইমন (Robiul Sunny Emon)  
-- **পেশা:** সফটওয়্যার ডেভেলপার  
-- **বিশেষায়িত ক্ষেত্র:**  
-  - মোবাইল অ্যাপ ডেভেলপমেন্ট (**Flutter & Dart**)  
-  - ব্যাকেন্ড ডেভেলপমেন্ট (**Python & Django**)  
-  - ক্রস-প্ল্যাটফর্ম সলিউশন  
-- **যোগাযোগ:**  
-  - ইমেইল: [robiulsunyemon@gmail.com]()  
-  - GitHub: [github.com/robiulsunnyemon]()  
-  - LinkedIn: [linkedin.com/in/robiulsunyemon]()  
+## **👤 ব্যক্তিগত তথ্য**
+
+* **নাম:** রবিউল সানি ইমন (Robiul Suny Emon)
+* **পেশা:** সফটওয়্যার ডেভেলপার
+* **বিশেষায়িত ক্ষেত্র:**
+
+  * মোবাইল অ্যাপ ডেভেলপমেন্ট (**Flutter & Dart**)
+  * ব্যাকেন্ড ডেভেলপমেন্ট (**Python & Django**)
+  * ক্রস-প্ল্যাটফর্ম সলিউশন
+* **যোগাযোগ:**
+
+  * ইমেইল: [robiulsunnyemon@gmail.com](mailto:robiulsunnyemon@gmail.com)
+  * GitHub: github.com/robiulsunnyemon
+  * LinkedIn: linkedin.com/in/robiulsunyemon
 
 ---
 
-## **💼 প্রযুক্তিগত দক্ষতা**  
+## **💼 প্রযুক্তিগত দক্ষতা**
 
-### **📱 মোবাইল ডেভেলপমেন্ট (Flutter & Dart)**  
-✔ **ফ্লাটার এক্সপার্ট:**  
-- স্টেট ম্যানেজমেন্ট (**GetX, Provider, BLoC, Riverpod**)  
-- Firebase ইন্টিগ্রেশন (**Auth, Firestore, Cloud Functions**)  
-- API কানেক্টিভিটি (**REST, GraphQL, WebSockets**)  
-- UI/UX ডিজাইন (**Material 3, Custom Animations**)  
-- CI/CD (**Flutter Build, App Store & Play Store Deployment**)  
+### **📱 মোবাইল ডেভেলপমেন্ট (Flutter & Dart)**
 
-✔ **ডার্ট প্রোগ্রামিং:**  
-- অ্যাসিনক্রোনাস প্রোগ্রামিং (**Future, Stream, Isolates**)  
-- ডিজাইন প্যাটার্ন (**MVC, MVVM, Clean Architecture**)  
+* **স্টেট ম্যানেজমেন্ট:** GetX, Provider, BLoC, Riverpod
+* **Firebase ইন্টিগ্রেশন:** Auth, Firestore, Cloud Functions
+* **API কানেক্টিভিটি:** REST, GraphQL, WebSockets
+* **UI/UX:** Material 3, Custom Animations
+* **CI/CD:** Flutter Build, App Store & Play Store Deployment
+* **ডার্ট প্রোগ্রামিং:** Future, Stream, Isolates, MVC, MVVM, Clean Architecture
 
-### **🐍 পাইথন ও Django (ব্যাকেন্ড ডেভেলপমেন্ট)**  
-✔ **Django এক্সপার্ট:**  
-- Django REST Framework (**API Development**)  
-- ডাটাবেস ম্যানেজমেন্ট (**PostgreSQL, MySQL, SQLite**)  
-- অথেন্টিকেশন (**JWT, OAuth, Session-Based Auth**)  
-- Celery (**Background Tasks & Async Processing**)  
+### **🐍 পাইথন ও Django (ব্যাকেন্ড ডেভেলপমেন্ট)**
 
-✔ **পাইথন স্ক্রিপ্টিং:**  
-- ডাটা অ্যানালাইসিস (**Pandas, NumPy**)  
-- অটোমেশন (**Selenium, BeautifulSoup**)  
+* **Django REST Framework** দিয়ে API ডেভেলপমেন্ট
+* **ডাটাবেস:** PostgreSQL, MySQL, SQLite
+* **অথেন্টিকেশন:** JWT, OAuth, Session-Based Auth
+* **Celery:** Background Tasks & Async Processing
+* **Python Scripting:** Pandas, NumPy, Selenium, BeautifulSoup
 
-### **🛠 অন্যান্য টুলস ও টেকনোলজি**  
-- **ভার্সন কন্ট্রোল:** Git, GitHub, GitLab  
-- **ডাটাবেস:** Firebase, Supabase, Hive  
-- **ডেভঅপ্স:** Docker, GitHub Actions  
-- **ডিজাইন:** Figma, Adobe XD  
+### **🛠 অন্যান্য টুলস ও টেকনোলজি**
+
+* **ভার্সন কন্ট্রোল:** Git, GitHub, GitLab
+* **ডাটাবেস:** Firebase, Supabase, Hive
+* **ডেভঅপ্স:** Docker, GitHub Actions
+* **ডিজাইন:** Figma, Adobe XD
 
 ---
 
-## **🚀 প্রজেক্ট ও অর্জন**  
+## **🚀 প্রজেক্ট ও অর্জন**
 
-### **ফ্লাটার প্রজেক্টস**  
-1. **E-Commerce App**  
-   - GetX, Firebase, Stripe Payment  
-   - Features: Cart, Order Tracking, Push Notifications  
+### **Flutter প্রজেক্টস**
 
-2. **Health & Fitness Tracker**  
-   - BLoC Pattern, SQLite, Google Fit API  
-   - Real-time Health Data Monitoring  
+1. **E-Commerce App**
 
-3. **Social Media Dashboard**  
-   - GraphQL API, Riverpod, Hive DB  
+   * GetX, Firebase, Stripe Payment
+   * Features: Cart, Order Tracking, Push Notifications
 
-### **Django প্রজেক্টস**  
-1. **Inventory Management System**  
-   - Django REST Framework, JWT Auth, PostgreSQL  
+2. **Health & Fitness Tracker**
 
-2. **Automated Blog Platform**  
-   - Web Scraping, Celery, Redis  
+   * BLoC Pattern, SQLite, Google Fit API
+   * Real-time Health Data Monitoring
 
----
+3. **Social Media Dashboard**
 
-## **📚 লার্নিং রিসোর্সেস**  
-- **ফ্লাটার:** [Flutter Docs](https://flutter.dev/docs), [GetX Documentation](https://pub.dev/packages/get)  
-- **ডjango:** [Django Official Docs](https://docs.djangoproject.com/)  
-- **পাইথন:** [Real Python](https://realpython.com/)  
+   * GraphQL API, Riverpod, Hive DB
 
----
+### **Django প্রজেক্টস**
 
-## **📈 ভবিষ্যৎ লক্ষ্য**  
-- **AI-ইন্টিগ্রেটেড অ্যাপ ডেভেলপমেন্ট**  
-- **মাইক্রোসার্ভিস আর্কিটেকচার এক্সপ্লোরেশন**  
-- **ওপেন-সোর্স কন্ট্রিবিউশন**  
+1. **Inventory Management System**
+
+   * Django REST Framework, JWT Auth, PostgreSQL
+
+2. **Automated Blog Platform**
+
+   * Web Scraping, Celery, Redis
 
 ---
 
-### **📝 শেষ কথা**  
-"কোডিং শুধু পেশা নয়, আমার আবেগ। নতুন টেকনোলজি শেখা এবং সমস্যা সমাধান করাই আমার মূল লক্ষ্য।"  
+## **📚 লার্নিং রিসোর্সেস**
 
-🔗 **আমার সাথে যুক্ত থাকুন:** [Portfolio](https://github.com/robiulsunnyemon?tab=repositories) | [GitHub](https://github.com/robiulsunnyemon/) | [Linkedin](https://github.com/robiulsunnyemon/)
-
---- 
-
-## See my post
-
-[<img src="https://miro.medium.com/v2/resize:fit:1400/1*5rgktQtBMRJ3ONKSuR3hNA.png" alt="Description" width="300" height="200">](post/getx_cli.md) 
-
-[Getx Cli documentation](post/getx_cli.md)
-
-[<img src="https://paymentsplugin.com/wp-content/uploads/2024/12/stripe_supported_payment_methods-2048x1152.jpg" alt="Description" width="300" height="200">](post/stripe.md) 
-
-[Stripe Payment documentation](post/stripe.md)
-
-[<img src="https://miro.medium.com/v2/resize:fit:1400/1*gyHhJT0tKRaBhXSDIHaOyw.jpeg" alt="Description" width="300" height="200">](post/fvm.md) 
-
-[Flutter version management documentation](post/fvm.md) 
-
-[<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*_4FOBZx2fe03jsdBUFBM5g.png" alt="Description" width="300" height="200">](post/flutterfire.md) 
-
-[Flutterfire Cli documentation](post/flutterfire.md)
-
-[<img src="https://joebirch.co/wp-content/uploads/2019/05/ff.png" alt="Description" width="300" height="200">](post/intl.md) 
-
-[DateTime management](post/intl.md)
+* Flutter Docs
+* GetX Documentation
+* Django Official Docs
+* Real Python
 
 ---
 
-*© 2024 - রবিউল সানি ইমন* 
+## **📈 ভবিষ্যৎ লক্ষ্য**
+
+* AI-ইন্টিগ্রেটেড অ্যাপ ডেভেলপমেন্ট
+* মাইক্রোসার্ভিস আর্কিটেকচার এক্সপ্লোরেশন
+* ওপেন-সোর্স কন্ট্রিবিউশন
+
+---
+
+## **📝 শেষ কথা**
+
+"কোডিং শুধু পেশা নয়, আমার আবেগ। নতুন টেকনোলজি শেখা এবং সমস্যা সমাধান করাই আমার মূল লক্ষ্য।"
+
+---
+
+## **📌 See My Posts**
+
+### GetX CLI
+
+[![GetX CLI](https://miro.medium.com/v2/resize\:fit:1400/1*5rgktQtBMRJ3ONKSuR3hNA.png)](post/getx_cli.md)
+**[GetX CLI Documentation](post/getx_cli.md)**
+
+### Stripe Payment
+
+[![Stripe Docs](https://paymentsplugin.com/wp-content/uploads/2024/12/stripe_supported_payment_methods-2048x1152.jpg)](post/stripe.md)
+**[Stripe Payment Documentation](post/stripe.md)**
+
+### Flutter Version Management
+
+[![FVM](https://miro.medium.com/v2/resize\:fit:1400/1*gyHhJT0tKRaBhXSDIHaOyw.jpeg)](post/fvm.md)
+**[Flutter Version Management Documentation](post/fvm.md)**
+
+### FlutterFire CLI
+
+[![FlutterFire](https://miro.medium.com/v2/resize\:fit:720/format\:webp/1*_4FOBZx2fe03jsdBUFBM5g.png)](post/flutterfire.md)
+**[FlutterFire CLI Documentation](post/flutterfire.md)**
+
+### DateTime Management
+
+[![Intl](https://joebirch.co/wp-content/uploads/2019/05/ff.png)](post/intl.md)
+**[DateTime Management](post/intl.md)**
+
+---
+
+*© 2024 - রবিউল সানি ইমন*
