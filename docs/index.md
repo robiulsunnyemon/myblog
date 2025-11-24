@@ -112,7 +112,11 @@ layout: default
 
 [<img src="https://miro.medium.com/v2/resize:fit:1400/1*gyHhJT0tKRaBhXSDIHaOyw.jpeg" alt="Description" width="300" height="200">](post/fvm.md) 
 
-[Flutter version management documentation](post/fvm.md)
+[Flutter version management documentation](post/fvm.md) 
+
+[<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*_4FOBZx2fe03jsdBUFBM5g.png" alt="Description" width="300" height="200">](post/getx_cli.md) 
+
+[Flutterfire Cli documentation](post/flutterfire.md)
 
 ---
 
