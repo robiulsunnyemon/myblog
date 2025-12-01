@@ -92,9 +92,9 @@
 
 
 
-![GetX CLI](https://miro.medium.com/v2/resize\:fit:1400/1*5rgktQtBMRJ3ONKSuR3hNA.png)
+![Stripe Docs](https://miro.medium.com/v2/resize:fit:1200/1*mNHU8hPq4KtS0wjP784O6g.png)
 
-**[GetX CLI Documentation](post/getx_cli.md)**
+**[Stripe Documentation](post/getx_cli.md)**
 
 
 
