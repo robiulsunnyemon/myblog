@@ -94,7 +94,7 @@
 
 ![Stripe Docs](https://miro.medium.com/v2/resize:fit:1200/1*mNHU8hPq4KtS0wjP784O6g.png)
 
-**[Stripe Documentation](post/getx_cli.md)**
+**[Getx Documentation](post/getx_cli.md)**
 
 
 
@@ -103,13 +103,13 @@
 **[Stripe Documentation](post/stripe.md)**
 
 
-![FVM](https://miro.medium.com/v2/resize\:fit:1400/1*gyHhJT0tKRaBhXSDIHaOyw.jpeg)
+![FVM](https://miro.medium.com/1*6cZV_5-GRK1ihvTNyRigMA.png)
 
 **[Flutter Version Management Documentation](post/fvm.md)**
 
 
 
-![FlutterFire](https://miro.medium.com/v2/resize\:fit:720/format\:webp/1*_4FOBZx2fe03jsdBUFBM5g.png)
+![FlutterFire](https://miro.medium.com/v2/resize:fit:1400/1*fDrmv8OPtunyg9j3rP4U6w.png)
 
 **[FlutterFire CLI Documentation](post/flutterfire.md)**
 
