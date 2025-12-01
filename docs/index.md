@@ -111,3 +111,27 @@
 ---
 
 *© 2024 - Robiul Suny*
+
+
+<!-- Firebase Analytics -->
+<script type="module">
+  // Import the functions you need from the SDKs you need
+  import { initializeApp } from "https://www.gstatic.com/firebasejs/10.12.0/firebase-app.js";
+  import { getAnalytics } from "https://www.gstatic.com/firebasejs/10.12.0/firebase-analytics.js";
+
+  // Your web app's Firebase configuration
+  const firebaseConfig = {
+    apiKey: "AIzaSyAtPTXLNXM3A2cE-ht4_BEHruAcPLImIEU",
+    authDomain: "myblog-983f1.firebaseapp.com",
+    projectId: "myblog-983f1",
+    storageBucket: "myblog-983f1.firebasestorage.app",
+    messagingSenderId: "39761770726",
+    appId: "1:39761770726:web:a8ba9866dbc644fe4a2327",
+    measurementId: "G-1KX31E6CZZ"
+  };
+
+  // Initialize Firebase
+  const app = initializeApp(firebaseConfig);
+  const analytics = getAnalytics(app);
+</script>
+
