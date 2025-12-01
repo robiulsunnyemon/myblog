@@ -1,21 +1,21 @@
 # **রবিউল সানি ইমন**
 
-### সফটওয়্যার ডেভেলপার | Flutter · Dart · Python · Django
+### Associate Software Engineer | Flutter · Dart · Python · Django · FastAPI · MongoDB · PostgreSQL
 
 ---
 
 ## **👤 ব্যক্তিগত তথ্য**
 
 * **নাম:** রবিউল সানি ইমন (Robiul Suny Emon)
-* **পেশা:** সফটওয়্যার ডেভেলপার
+* **পেশা:** Associate Software Engineer
 * **বিশেষায়িত ক্ষেত্র:**
 
   * মোবাইল অ্যাপ ডেভেলপমেন্ট (**Flutter & Dart**)
-  * ব্যাকেন্ড ডেভেলপমেন্ট (**Python & Django**)
+  * ব্যাকেন্ড ডেভেলপমেন্ট (**Python & Django, FastAPI**)
   * ক্রস-প্ল্যাটফর্ম সলিউশন
 * **যোগাযোগ:**
 
-  * ইমেইল: [robiulsunnyemon@gmail.com](mailto:robiulsunnyemon@gmail.com)
+  * ইমেইল: [robiulsunyemon@gmail.com](mailto:robiulsunyemon@gmail.com)
   * GitHub: github.com/robiulsunnyemon
   * LinkedIn: linkedin.com/in/robiulsunyemon
 
@@ -132,6 +132,11 @@
 ![Intl](https://joebirch.co/wp-content/uploads/2019/05/ff.png)
 
 **[DateTime Management](post/intl.md)**
+
+
+![Clean Archtecture](https://miro.medium.com/0*uT4bONAWj644_gb-.jpg)
+
+**[Clean Architecture](post/flutter_clean_architecture.md)**
 
 ---
 
