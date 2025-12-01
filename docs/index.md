@@ -4,101 +4,87 @@
 
 ---
 
-## **👤 ব্যক্তিগত তথ্য**
+## **👤 Personal Information**
 
-* **নাম:** রবিউল সানি (Robiul Suny)
-* **পেশা:** Associate Software Engineer
-* **বিশেষায়িত ক্ষেত্র:**
+* **Name:** Robiul Suny  
+* **Role:** Associate Software Engineer  
+* **Areas of Expertise:**  
+  * Mobile App Development (**Flutter & Dart**)  
+  * Backend Development (**Python, Django & FastAPI**)  
+  * Cross-Platform Solutions  
 
-  * মোবাইল অ্যাপ ডেভেলপমেন্ট (**Flutter & Dart**)
-  * ব্যাকেন্ড ডেভেলপমেন্ট (**Python & Django, FastAPI**)
-  * ক্রস-প্ল্যাটফর্ম সলিউশন
-* **যোগাযোগ:**
-
-  * ইমেইল: [robiulsunyemon@gmail.com](mailto:robiulsunyemon@gmail.com)
-  * GitHub: github.com/robiulsunnyemon
-  * LinkedIn: linkedin.com/in/robiulsunyemon
-
----
-
-## **💼 প্রযুক্তিগত দক্ষতা**
-
-### **📱 মোবাইল ডেভেলপমেন্ট (Flutter & Dart)**
-
-* **স্টেট ম্যানেজমেন্ট:** GetX, Provider, BLoC, Riverpod
-* **Firebase ইন্টিগ্রেশন:** Auth, Firestore, Cloud Functions
-* **API কানেক্টিভিটি:** REST, GraphQL, WebSockets
-* **UI/UX:** Material 3, Custom Animations
-* **CI/CD:** Flutter Build, App Store & Play Store Deployment
-* **ডার্ট প্রোগ্রামিং:** Future, Stream, Isolates, MVC, MVVM, Clean Architecture
-
-### **🐍 পাইথন ও Django (ব্যাকেন্ড ডেভেলপমেন্ট)**
-
-* **Django REST Framework** দিয়ে API ডেভেলপমেন্ট
-* **ডাটাবেস:** PostgreSQL, MySQL, SQLite
-* **অথেন্টিকেশন:** JWT, OAuth, Session-Based Auth
-* **Celery:** Background Tasks & Async Processing
-* **Python Scripting:** Pandas, NumPy, Selenium, BeautifulSoup
-
-### **🛠 অন্যান্য টুলস ও টেকনোলজি**
-
-* **ভার্সন কন্ট্রোল:** Git, GitHub, GitLab
-* **ডাটাবেস:** Firebase, Supabase, Hive
-* **ডেভঅপ্স:** Docker, GitHub Actions
-* **ডিজাইন:** Figma, Adobe XD
+* **Contact:**  
+  * Email: [robiulsunyemon@gmail.com](mailto:robiulsunyemon@gmail.com)  
+  * GitHub: [github.com/robiulsunnyemon](https://github.com/robiulsunnyemon)  
+  * LinkedIn: [linkedin.com/in/robiulsunyemon](https://linkedin.com/in/robiulsunyemon)  
 
 ---
 
-## **🚀 প্রজেক্ট ও অর্জন**
+## **💼 Technical Skills**
 
-### **Flutter প্রজেক্টস**
+### **📱 Mobile Development (Flutter & Dart)**
+* **State Management:** GetX, Provider, BLoC, Riverpod  
+* **Firebase Integration:** Auth, Firestore, Cloud Functions  
+* **API Connectivity:** REST, GraphQL, WebSockets  
+* **UI/UX:** Material 3, Custom Animations  
+* **CI/CD:** Flutter Build, App Store & Play Store Deployment  
+* **Dart Programming:** Future, Stream, Isolates, MVC, MVVM, Clean Architecture  
 
-1. **E-Commerce App**
+### **🐍 Python & Django (Backend Development)**
+* **API Development** with Django REST Framework  
+* **Databases:** PostgreSQL, MySQL, SQLite  
+* **Authentication:** JWT, OAuth, Session-Based Auth  
+* **Celery:** Background Tasks & Async Processing  
+* **Python Scripting:** Pandas, NumPy, Selenium, BeautifulSoup  
 
-   * GetX, Firebase, Stripe Payment
-   * Features: Cart, Order Tracking, Push Notifications
-
-2. **Health & Fitness Tracker**
-
-   * BLoC Pattern, SQLite, Google Fit API
-   * Real-time Health Data Monitoring
-
-3. **Social Media Dashboard**
-
-   * GraphQL API, Riverpod, Hive DB
-
-### **Django প্রজেক্টস**
-
-1. **Inventory Management System**
-
-   * Django REST Framework, JWT Auth, PostgreSQL
-
-2. **Automated Blog Platform**
-
-   * Web Scraping, Celery, Redis
+### **🛠 Other Tools & Technologies**
+* **Version Control:** Git, GitHub, GitLab  
+* **Databases:** Firebase, Supabase, Hive  
+* **DevOps:** Docker, GitHub Actions  
+* **Design:** Figma, Adobe XD  
 
 ---
 
-## **📚 লার্নিং রিসোর্সেস**
+## **🚀 Projects & Achievements**
 
-* Flutter Docs
-* GetX Documentation
-* Django Official Docs
-* Real Python
+### **Flutter Projects**
+1. **E-Commerce App**  
+   * GetX, Firebase, Stripe Payment  
+   * Features: Cart, Order Tracking, Push Notifications  
+
+2. **Health & Fitness Tracker**  
+   * BLoC Pattern, SQLite, Google Fit API  
+   * Real-time Health Data Monitoring  
+
+3. **Social Media Dashboard**  
+   * GraphQL API, Riverpod, Hive DB  
+
+### **Django Projects**
+1. **Inventory Management System**  
+   * Django REST Framework, JWT Auth, PostgreSQL  
+
+2. **Automated Blog Platform**  
+   * Web Scraping, Celery, Redis  
 
 ---
 
-## **📈 ভবিষ্যৎ লক্ষ্য**
-
-* AI-ইন্টিগ্রেটেড অ্যাপ ডেভেলপমেন্ট
-* মাইক্রোসার্ভিস আর্কিটেকচার এক্সপ্লোরেশন
-* ওপেন-সোর্স কন্ট্রিবিউশন
+## **📚 Learning Resources**
+* Flutter Docs  
+* GetX Documentation  
+* Django Official Docs  
+* Real Python  
 
 ---
 
-## **📝 শেষ কথা**
+## **📈 Future Goals**
+* AI-Integrated App Development  
+* Microservices Architecture Exploration  
+* Open-Source Contributions  
 
-"কোডিং শুধু পেশা নয়, আমার আবেগ। নতুন টেকনোলজি শেখা এবং সমস্যা সমাধান করাই আমার মূল লক্ষ্য।"
+---
+
+## **📝 A Final Note**
+> “Coding is not just my profession — it’s my passion. Learning new technologies and solving problems is what drives me.”
 
 ---
 
